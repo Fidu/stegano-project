@@ -1,0 +1,9 @@
+fastapi==0.92.0
+imageio==2.25.1
+numpy==1.24.2
+Pillow==9.4.0
+scikit-image==0.19.3
+torch==1.13.1
+torchvision==0.14.1
+uvicorn==0.20.0
+python-multipart==0.0.5
