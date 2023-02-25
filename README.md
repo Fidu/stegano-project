@@ -1,5 +1,8 @@
 # stegano-project
 
+## Enlace a los datos
+[Acceso a los datos en Drive](https://drive.google.com/drive/folders/1Hgg9Mas5tvLcebIUhLBrtn8YON3bQSfF?usp=sharing)
+
 ## Ejecutar demo con Docker
 Para ejecutar la demo habría que seguir los siguientes pasos:
 
