@@ -7,8 +7,8 @@ STEGANOGRAPHY](https://arxiv.org/pdf/1711.07201.pdf)
 ## Sobre el taller
 Los ejercicios están disponibles en:
 
-- [Ejercicios](train_model/AI%20un%20Mensaje%20oculto%20para%20ti.ipynbAI_un_Mensaje_oculto_para_ti.ipynb)
-- [Soluciones](train_model/[SOLUCIONES]_AI_un_Mensaje_oculto_para_ti.ipynb)
+- **Ejercicios:** train_model/AI_un_Mensaje_oculto_para_ti.ipynb
+- **Soluciones:** train_model/[SOLUCIONES]_AI_un_Mensaje_oculto_para_ti.ipynb
 
 ### Enlace a los datos
 [Acceso a los datos en Drive](https://drive.google.com/drive/folders/1Hgg9Mas5tvLcebIUhLBrtn8YON3bQSfF?usp=sharing)
